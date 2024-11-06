@@ -1,12 +1,12 @@
 # Taller05 - Grupal
 
-## Construcción de programas usando estructuras de selección simple y compuesta
+## Programas, estructuras de selección simple y compuesta - GRUPAL
 
-* Leer detenidamente cada problemática propuesta, y recuerde las soluciones ya generadas en la materia de FUNDAMENTOS COMPUTACIONALES (para los problemas 1-9). De los problemas 10-14, plantee la nueva solución. 
-* Programa/codifíque con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
+* Programar/codifícar con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
 * Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
 * Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas.
-* Al ser una tarea grupal por favor desarrollarla colaborativamente. 
+* Al ser una tarea grupal por favor desarrollarla colaborativamente, todos los integrantes del grupo deben conocer de todas las soluciones.  
+* Al final como parte de la códificación (en comentario /*** ), copiar y pegar los resultados obtenidos de la consola, evidenciando el funcionamiento de su solución. 
 
 ### Listado de problemáticas:
 
@@ -37,20 +37,17 @@
 * Problema-9
 > **Ordenamiento de Tres Números:** Dados tres números, ordenarlos en orden ascendente.
 
-* Problema-10
-> Desarrollar una solución en lenguaje Java para cada problema (usar el IDE de programación Netbeans)
+* Problema 10
+> **Facturación eléctrica:** Desarrollar una solución que permita calcular y mostrar el valor a cancelar de una planilla de luz. Se debe ingresar el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se debe descontar el 10% por pertenecer a la tercera edad.
 
 * Problema 11
-> Solución que permita calcular y mostrar el valor a cancelar de una planilla de luz. Se debe ingresar el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se debe descontar el 10%.
+> **Pedidos online:** Desarrollar una solución que imprima el costo de un pedido de un artículo del cual se tiene la descripción, la cantidad que se requiere y el precio unitario. Si la cantidad pedida excede de 50 unidades, se hace un descuento de 15%.
 
 * Problema 12
-> Solución que imprima el costo de un pedido de un artículo del cual se tiene la descripción, la cantidad que se requiere y el precio unitario. Si la cantidad pedida excede de 50 unidades, se hace un descuento de 15%.
+>**Calculo de impuestos:** Desarrollar una solución que permita leer los datos de un automóvil (marca, origen y costo) imprima el impuesto por pagar y el precio de venta (incluido el impuesto). Si el origen es Alemania el impuesto es 20%, si es de Japón el impuesto es 30%, si es de Italia, 15%, y si es de USA, 8%
 
 * Problema 13
->Elaborar una solución que permita leer los datos de un automóvil (marca, origen y costo) imprima el impuesto por pagar y el precio de venta (incluido el impuesto). Si el origen es Alemania el impuesto es 20%, si es de Japón el impuesto es 30%, si es de Italia, 15%, y si es de USA, 8%
-
-* Problema 14
-> En una hosteria de la ciudad de Loja se hace un descuento del 10% si el cliente se hospeda más de 5 días, del 15% si se hospeda más de 10 días y del 20% si se hospeda más de 15 días. Elaborar un solución que pida como datos de entrada el número de días y el precio diario de la habitación y luego calcule e imprima el subtotal por pagar, el descuento y el total por pagar.
+> **Sistema de reservas hoteleras:** En una hosteria de la ciudad de Loja se hace un descuento del 10% si el cliente se hospeda más de 5 días, del 15% si se hospeda más de 10 días y del 20% si se hospeda más de 15 días. Elaborar un solución que pida como datos de entrada el número de días y el precio diario de la habitación y luego calcule e imprima el subtotal por pagar, el descuento y el total por pagar.
 
 
 **Mucho aprendizaje en este taller 5**
